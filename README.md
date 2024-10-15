@@ -9,3 +9,15 @@ Kali String Utilities is a package that includes various useful string manipulat
 ## Installation
 ```bash
 npm install kali-string-utilities
+```
+
+# Usage
+```
+const { capitalize, snakeToCamel, reverseString, truncate } = require('string-utilities');
+
+console.log(kl_capitalize("hello")); // Output: "Hello"
+console.log(kl_snakeToCamel("hello_world_test")); // Output: "helloWorldTest"
+console.log(kl_reverseString("hello")); // Output: "olleh"
+console.log(kl_truncate("This is a long sentence", 10)); // Output: "This is a..."
+
+```
