@@ -1,6 +1,6 @@
 {
   "name": "kali-string-utilities",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "\"Kali\" represents time and change, symbolizing adaptability and powerful transformations within your development environment. Kali String Utilities is a package that includes various useful string manipulation functions, such as Capitalize first letter, convert from snake_case to camelCase and vice versa, Reverse a string, Truncate a string to a specific length with ellipsis.",
   "main": "index.js",
   "repository": {
